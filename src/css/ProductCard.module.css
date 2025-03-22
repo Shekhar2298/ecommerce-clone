@@ -1,0 +1,26 @@
+/* ProductCard.module.css */
+.productCard {
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .productCard:hover {
+    /* transform: scale(1.0); */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .addToCartBtn {
+    width: 100%;
+    background-color: #3b82f6;
+    color: white;
+    padding: 0.5rem;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+  }
+  
+  .addToCartBtn:hover {
+    transform: scale(1.01);
+    background-color: #1e40af;
+  }

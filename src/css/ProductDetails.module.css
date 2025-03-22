@@ -1,0 +1,21 @@
+/* ProductDetails.module.css */
+.productImage {
+    transition: transform 0.3s ease;
+  }
+  
+  /* .productImage:hover {
+    transform: scale(1.1);
+  } */
+  
+  .addToCartBtn {
+    background-color: #3b82f6;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .addToCartBtn:hover {
+    background-color: #1e40af;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
