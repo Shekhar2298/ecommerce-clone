@@ -69,13 +69,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
 # E-commerce Clone
 
-This is a clone of an e-commerce site built using React and the Platzi Fake Store API.
+This is a clone of an e-commerce site built using **React** and the **Platzi Fake Store API**. The project includes features like product listings, product details, a shopping cart, user authentication, and a checkout process.
+
+## Live Demo
+
+Check out the live demo of the project:  
+👉 [E-commerce Clone](https://ecommerce-clone-alpha.vercel.app/)
+
+## Features
+
+- **Product Listing**: Browse products with search, filtering, and sorting functionality.
+- **Product Details**: View detailed information about each product.
+- **Shopping Cart**: Add/remove items, update quantities, and proceed to checkout.
+- **User Authentication**: Sign up, log in, and log out functionality.
+- **Responsive Design**: Optimized for mobile, tablet, and desktop screens.
+
+## Technologies Used
+
+- **Frontend**: React, React Router, Tailwind CSS
+- **State Management**: React Context API
+- **Authentication**: Firebase Authentication
+- **API**: Platzi Fake Store API
+- **Deployment**: Vercel
 
 ## Setup Instructions
 
-1. Clone the repository:
+Follow these steps to set up the project locally:
+
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/ecommerce-clone.git
