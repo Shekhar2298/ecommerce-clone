@@ -21,3 +21,16 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+# Environment variables
+.env
+
+# Build files
+build/
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.mysql
